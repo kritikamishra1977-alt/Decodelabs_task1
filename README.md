@@ -34,6 +34,7 @@ Outcome
 The dataset was successfully cleaned and prepared for future analysis. After removing inconsistencies and improving data quality, the final dataset became more accurate, organized, and reliable for analytical tasks.
 
 Conclusion
+
 This project provided valuable hands-on experience in data cleaning and preparation. It enhanced my understanding of how high-quality data forms the foundation of meaningful analysis and better decision-making.
 
 This project provided valuable hands-on experience in data cleaning and preparation. It enhanced my understanding of how high-quality data forms the foundation of meaningful analysis and better decision-making.
